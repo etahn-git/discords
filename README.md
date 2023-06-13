@@ -13,4 +13,4 @@ Perms needed:
 <hr>
 
 ### Why did i make this?
-I made this for my website so no matter how many times i change my discord username the website will always show my correct username, and has a button to join my discord server. You can see an example of this running for my discord at: etahn.dev/discord  
+I made this for my website so no matter how many times i change my discord username the website will always show my correct username, and has a button to join my discord server. 
